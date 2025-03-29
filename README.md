@@ -1,3 +1,5 @@
+# Filed with Apple as FB17042589
+
 This sample project demonstrates a bug that causes Xcode previews of SwiftUI views to fail. To reproduce the problem, follow these steps:
 
 1. Open this project in Xcode and preview the BugView SwiftUI view.
